@@ -1,0 +1,16 @@
+body {
+  background-color: aliceblue;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+h1 {
+	background-color: cadetblue;
+    padding: 3%;
+}
+a {
+  color: #00B7FF;
+}
+p {
+	background-color: cadetblue;   
+	 padding: 2%;
+}
